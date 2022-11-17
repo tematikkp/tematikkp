@@ -1,4 +1,8 @@
-### Hi there 👋
+Hello there. Welcome to my user page. I never knew that {username}/{username} repository will create your own personal customizable area using README.md.
+
+# Details
+Joined: July 19, 2022
+Learned: Python (a little bit), Scratch
 
 <!--
 **tematikkp/tematikkp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
