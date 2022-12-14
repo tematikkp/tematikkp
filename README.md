@@ -1,4 +1,6 @@
-Hello there. Welcome to my user page. I never knew that {username}/{username} repository will create your own personal customizable area using README.md.
+Hello there. Welcome to my user page.
+
+I am so sorry that I'm quitting w, due to recent conditions.
 
 # Details
 Joined: July 19, 2022
