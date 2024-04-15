@@ -1,6 +1,6 @@
 Hello there. Welcome to my user page.
 
-I'm Tematikkp (stylized in all lowercase), also known as Thetm in other platforms. I want to be a programmer.
+I'm Tematikkp (stylized in all lowercase), also known as Thetm in other platforms. I am just your ordinary coder.
 
 # Details
 Joined: July 19, 2022
